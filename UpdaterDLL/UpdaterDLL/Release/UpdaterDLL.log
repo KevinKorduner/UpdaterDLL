@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  dllmain.cpp
+  UpdaterDLL.cpp
+C:\Users\sv\Desktop\curr\UpdaterDLL\UpdaterDLL\UpdaterDLL.cpp(1,9): warning C4005: 'UNICODE': macro redefinition
+      C:\Users\sv\Desktop\curr\UpdaterDLL\UpdaterDLL\UpdaterDLL.cpp(1,9):
+      'UNICODE' previously declared on the command line
+  
+C:\Users\sv\Desktop\curr\UpdaterDLL\UpdaterDLL\UpdaterDLL.cpp(2,9): warning C4005: '_UNICODE': macro redefinition
+      C:\Users\sv\Desktop\curr\UpdaterDLL\UpdaterDLL\UpdaterDLL.cpp(2,9):
+      '_UNICODE' previously declared on the command line
+  
+     Creating library C:\Users\sv\Desktop\curr\UpdaterDLL\UpdaterDLL\Release\UpdaterDLL.lib and object C:\Users\sv\Desktop\curr\UpdaterDLL\UpdaterDLL\Release\UpdaterDLL.exp
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 598 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UpdaterDLL.vcxproj -> C:\Users\sv\Desktop\curr\UpdaterDLL\UpdaterDLL\Release\UpdaterDLL.dll
